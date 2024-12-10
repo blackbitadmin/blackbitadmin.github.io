@@ -1,6 +1,7 @@
-# Welcome
+# Welcome to Blackbit
 
-This is blackbits docs
+Focusing on blockchain technology and machine learning.
 
-## About Me
-I am a developer who loves writing about technology and projects.
+## About us
+web: https://blackbit.ai
+contact: contact@blackbit.ai
